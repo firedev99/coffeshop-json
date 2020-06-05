@@ -1,0 +1,131 @@
+[
+    {
+        "title": "Arabica",
+        "slug": "arabica-coffe",
+        "description": "Arabica is the most popular type of coffee, hands down. Depending on who you ask, many coffee enthusiasts prefer using Arabica beans due to its taste. Typically used for black coffee.",
+        "price": "10.00",
+        "category": "coffe",
+        "images": "../images/arabica.jpg"
+    },
+    {
+        "title": "Robusta",
+        "slug": "robusta-coffe",
+        "description": "While Arabica is the most popular, Robusta is cheaper and stronger. Because of its bitter flavor, you’ll typically see Robusta used for espresso drinks and in instant coffee mixes.",
+        "price": "8.00",
+        "category": "coffe",
+        "images": "../images/robusta.jpg"
+    },
+    {
+        "title": "Latte",
+        "slug": "latte-coffe",
+        "description": "As the most popular coffee drink out there, the latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice.",
+        "price": "14.00",
+        "category": "coffe",
+        "images": "../images/latte.jpg"
+    },
+    {
+        "title": "Cappuccino",
+        "slug": "cappuccino-coffe",
+        "description": "Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.",
+        "price": "14.00",
+        "category": "coffe",
+        "images": "../images/cappuccino.jpg"
+    },
+    {
+        "title": "Americano",
+        "slug": "americano-coffe",
+        "description": "With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water. Pro tip: if you’re making your own, pour the espresso first, then add the hot water.",
+        "price": "8.00",
+        "category": "coffe",
+        "images": "../images/americano.jpg"
+    },
+    {
+        "title": "Espresso",
+        "slug": "espresso-coffe",
+        "description": "An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos.",
+        "price": "10.00",
+        "category": "coffe",
+        "images": "../images/espresso.jpg"
+    },
+    {
+        "title": "Doppio",
+        "slug": "doppio-coffe",
+        "description": "A double shot of espresso, the doppio is perfect for putting extra pep in your step.",
+        "price": "12.00",
+        "category": "coffe",
+        "images": "../images/doppio.jpg"
+    },
+    {
+        "title": "Cortado",
+        "slug": "cortado-coffe",
+        "description": "A double shot of espresso, the doppio is perfect for putting extra pep in your step.",
+        "price": "9.00",
+        "category": "coffe",
+        "images": "../images/cortado.jpg"
+    },
+    {
+        "title": " Barley Tea",
+        "slug": "barley-tea",
+        "description": "Barley tea enjoys most popularity in the East, and it’s a staple drink in China, Japan, and Korea.",
+        "price": "4.00",
+        "category": "tea",
+        "images": "../images/barley.jpg"
+    },
+    {
+        "title": "Black Tea",
+        "slug": "black-tea",
+        "description": "It’s also one of the most popular drinks in the world, particularly so in Great Britain and Ireland. In fact, Brits drink approximately 165 million cups of black tea every single day.",
+        "price": "5.00",
+        "category": "tea",
+        "images": "../images/blaack.jpg"
+    },
+    {
+        "title": "Watermelon Juice",
+        "slug": "watermelon-juice",
+        "description": "Made up of over 90% water, this juice is one of the most hydrating options you can find and contains antioxidants that help decrease chances of heart disease, cancer and high blood pressure.",
+        "price": "5.00",
+        "category": "juice",
+        "images": "../images/watermelon.jpg"
+    },
+    {
+        "title": "Pomegranate Juice",
+        "slug": "pomegranate-juice",
+        "description": "An antioxidant bomb, pomegranate juice is filled with vitamins E and C to help reduce wrinkles and protect against sun damage. Pomegranate juice also helps to minimize inflammation and the phytochemicals in the fruit stop the growth of aromatase.",
+        "price": "6.00",
+        "category": "juice",
+        "images": "../images/pomegranate.jpg"
+    },
+    {
+        "title": "Blueberry Juice",
+        "slug": "blueberry-juice",
+        "description": "The high amounts of flavonoids and disease-fighting antioxidants in blueberry juice may help reduce the chances of Alzheimer's Disease and other mental health disorders.",
+        "price": "6.00",
+        "category": "juice",
+        "images": "../images/blueberry.jpg"
+    },
+    {
+        "title": "Orange Juice",
+        "slug": "orange-juice",
+        "description": "Orange juice is best for providing the body with tons of vitamin C. Drink it for a healthy immune system and to fight off damage-causing free radicals.",
+        "price": "5.00",
+        "category": "juice",
+        "images": "../images/orange.jpg"
+    },
+    {
+        "title": "Grapefruit Juice",
+        "slug": "grapefruit-juice",
+        "description": "Perfect for beach season, grapefruit juice aids in releasing excess water retention, boosting metabolism and strengthening the immune system. Stick to the ruby reds to manage your weight and control blood sugar.",
+        "price": "5.00",
+        "category": "juice",
+        "images": "../images/grapefruit.jpg"
+    },
+    {
+        "title": "Beet Juice",
+        "slug": "beet-juice",
+        "description": "Beet juice plays a huge role as a liver detoxifier, thanks to betalain, which also gives it its deep red pigment. You don't need very much to reap the benefits—just a small amount each week is enough to stimulate detoxifying enzymes and flush out your system.",
+        "price": "5.00",
+        "category": "juice",
+        "images": "../images/beet.jpg"
+    }
+    
+]
